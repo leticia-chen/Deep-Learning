@@ -9,4 +9,6 @@ The dataset consists of reviews of fine foods from Amazon.
 This project is done using Transfer learning techniques with a ResNet152 on Pytorch.
 ### Dataset
 #### Data Sources
-Torchvision.datasets:https://pytorch.org/vision/stable/generated/torchvision.datasets.Flowers102.html#torchvision.datasets.Flowers102
+Torchvision provides many built-in datasets in the torchvision.datasets
+
+https://pytorch.org/vision/stable/generated/torchvision.datasets.Flowers102.html#torchvision.datasets.Flowers102
