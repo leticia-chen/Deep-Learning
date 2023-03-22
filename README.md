@@ -1,6 +1,6 @@
 # Deep-Learning
 ## Amazon Fine Food
-BERT Sentiment Analysis
+This project used BERT for sentiment analysis
 ### Dataset
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
